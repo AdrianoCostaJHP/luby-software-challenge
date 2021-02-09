@@ -7,10 +7,6 @@
   <p>Desafio para reproduzir o <a href="https://xd.adobe.com/view/1798f30c-7746-444c-bffa-91b29835eef5-42cb/">layout</a> da forma mais fiel possível<p/> 
 </h4>
 
-<p align="center">
-  <a href="#rocket-technologies">Tecnologias</a>
-  <a href="#memo-license">License</a>
-</p>
 
 
 ## :rocket: Tecnologias
@@ -23,7 +19,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 -  [styled-components](https://www.styled-components.com/)
 -  [@expo/vector-icons](https://expo.github.io/vector-icons/)
 
-## :information_source: How To Use
+## :information_source: Como usar
 
 Para clonar e executar este aplicativo, você precisará do Git e o Expo vs3.23.3 ou maior instalado em seu computador. Na linha de comando:
 
@@ -41,7 +37,7 @@ $ expo install
 $ expo start
 ```
 
-## :memo: License
+## :memo: Licença
 Este projeto esta sob a licença do MIT.
 
 ---
