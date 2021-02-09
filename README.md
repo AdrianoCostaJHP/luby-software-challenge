@@ -8,13 +8,12 @@
 </h4>
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>
-  <a href="#information_source-how-to-use">How To Use</a>
+  <a href="#rocket-technologies">Tecnologias</a>
   <a href="#memo-license">License</a>
 </p>
 
 
-## :rocket: Technologies
+## :rocket: Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 -  [Expo](https://expo.io/)
