@@ -13,6 +13,7 @@ import Home from './pages/Home';
 import Repos from './pages/Repos';
 import Seguidores from './pages/Seguidores';
 import Seguindo from './pages/Seguindo';
+import Save from './pages/Save';
 
 
 const icons= {
@@ -68,13 +69,7 @@ function MyTabBottom() {
         inactiveTintColor: '#A9A9A9',
     }}
 >
-        <Tab.Screen 
-        name="Home" 
-        component={Home}
-        options = {{
-            
-        }}
-        />
+        <Tab.Screen name="Home" component={Home}/>
         <Tab.Screen name="Repos" component={Repos} />
         <Tab.Screen name="Seguidores" component={Seguidores} />
         <Tab.Screen name="Seguindo" component={Seguindo} />
@@ -98,6 +93,13 @@ export default function Routes(){
                 <Screen 
                     name="Home"
                     component ={MyTabBottom}
+                    options = {{
+                        headerShown: false,
+                    }}
+                />
+                <Screen 
+                    name="Save"
+                    component ={Save}
                     options = {{
                         headerShown: false,
                     }}

@@ -32,14 +32,14 @@ export default function Seguidores() {
         }
     }
 
-    function goToHome(followerLogin) {
+    function getSave(followerLogin) {
         
         dispatch({
-            type: 'loadUser',
+            type: 'loadUserTemp',
             payload: followerLogin.toString()
         })
         
-        navigation.navigate('Home');
+        navigation.navigate('Save');
     }       
         return(
             <>
@@ -72,7 +72,7 @@ export default function Seguidores() {
                             
                                 <Text style={styles.itemLogin}>#{user.item.login}</Text>
                                 <TouchableOpacity
-                                    onPress={ ()=> {goToHome(user.item.login)}}
+                                    onPress={ ()=> {getSave(user.item.login)}}
                                 >
                                 <AntDesign name="arrowright" size={24} color="#FFF"  />
                                 </TouchableOpacity>

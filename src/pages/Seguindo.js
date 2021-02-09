@@ -33,22 +33,14 @@ export default function Seguindo() {
     }
   }
 
-  function saveUser() {
-    return (
-      <View >
-        <Text>
-          Ola Marilene
-                </Text>
-      </View>
-    )
-  }
 
-  function goToHome(followingLogin) {
+
+  function goToSave(followingLogin) {
     dispatch({
-      type: 'loadUser',
+      type: 'loadUserTemp',
       payload: followingLogin.toString()
     })
-    navigation.navigate('Home');
+    navigation.navigate('Save');
   }
   return (
     <>
@@ -80,7 +72,7 @@ export default function Seguindo() {
 
                 <Text style={styles.itemLogin}>#{user.item.login}</Text>
                 <TouchableOpacity
-                  onPress={() => { goToHome(user.item.login) }}
+                  onPress={() => { goToSave(user.item.login) }}
                 >
                   <AntDesign name="arrowright" size={24} color="#FFF" />
                 </TouchableOpacity>
