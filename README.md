@@ -8,7 +8,8 @@
 </h4>
 
 <p align="center">
-  <a href="#technologies">Technologies</a>;
+  <a href="#rocket-technologies">Technologies</a>
+  <a href="#information_source-how-to-use">How To Use</a>
   <a href="#memo-license">License</a>
 </p>
 
