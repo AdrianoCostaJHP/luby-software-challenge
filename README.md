@@ -1,11 +1,19 @@
-# Desafio-Luby-Software
+
+<h1 align="center">
+<p>Desafio Luby Software</p>
+</h1>
+
+<h4 align="center">
+    Desafio para reproduzir o [layout](https://xd.adobe.com/view/1798f30c-7746-444c-bffa-91b29835eef5-42cb/) da forma mais fiel possível 
+</h4>
 
 <p align="center">
-  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#technologies">Technologies</a>;
   <a href="#memo-license">License</a>
 </p>
 
-## :rocket: technologies
+
+## :rocket: Technologies
 This project was developed  with the following technologies:
 
 -  [Expo](https://expo.io/)
@@ -17,7 +25,7 @@ This project was developed  with the following technologies:
 
 ## :information_source: How To Use
 
-Para clonar e executar este aplicativo, você precisará do Git , expo vs3.23.3 ou maior instalado em seu computador. Na linha de comando:
+Para clonar e executar este aplicativo, você precisará do Git e o Expo vs3.23.3 ou maior instalado em seu computador. Na linha de comando:
 
 ```bash
 # Clone this repository
