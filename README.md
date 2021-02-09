@@ -5,7 +5,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-## :rocket: tecnologias
+## :rocket: technologies
 This project was developed  with the following technologies:
 
 -  [Expo](https://expo.io/)
@@ -14,7 +14,6 @@ This project was developed  with the following technologies:
 -  [React Navigation](https://reactnavigation.org/)
 -  [styled-components](https://www.styled-components.com/)
 -  [@expo/vector-icons](https://expo.github.io/vector-icons/)
--  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :information_source: How To Use
 
