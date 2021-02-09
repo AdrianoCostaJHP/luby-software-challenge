@@ -3,9 +3,8 @@
 <p>Desafio Luby Software</p>
 </h1>
 
-<h4 align="center">
-    Desafio para reproduzir o [layout](https://xd.adobe.com/view/1798f30c-7746-444c-bffa-91b29835eef5-42cb/) da forma mais fiel possível 
-</h4>
+# Desafio para reproduzir o [layout](https://xd.adobe.com/view/1798f30c-7746-444c-bffa-91b29835eef5-42cb/) da forma mais fiel possível 
+
 
 <p align="center">
   <a href="#technologies">Technologies</a>;
