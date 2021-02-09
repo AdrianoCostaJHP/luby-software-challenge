@@ -3,7 +3,7 @@
 <p>Desafio Luby Software</p>
 </h1>
 
-# Desafio para reproduzir o [layout](https://xd.adobe.com/view/1798f30c-7746-444c-bffa-91b29835eef5-42cb/) da forma mais fiel possível 
+### Desafio para reproduzir o [layout](https://xd.adobe.com/view/1798f30c-7746-444c-bffa-91b29835eef5-42cb/) da forma mais fiel possível 
 
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 
 ## :rocket: Technologies
-This project was developed  with the following technologies:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 -  [Expo](https://expo.io/)
 -  [React-Native](https://facebook.github.io/react-native/)
@@ -41,9 +41,8 @@ $ expo start
 ```
 
 ## :memo: License
-
-This project is under the MIT license.
+Este projeto esta sob a licença do MIT.
 
 ---
 
-Feito por ♥ por Adriano Costa :wave: [Get in touch!](https://www.linkedin.com/in/adriano-costa-101395141/)
+Feito por ♥ por Adriano Costa :wave: [Entrar em contato!](https://www.linkedin.com/in/adriano-costa-101395141/)
