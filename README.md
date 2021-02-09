@@ -17,14 +17,14 @@ This project was developed  with the following technologies:
 
 ## :information_source: How To Use
 
-Para clonar e executar este aplicativo, você precisará do Git , [expo vs3.23.3][expo] ou maior instalado em seu computador. Na linha de comando:
+Para clonar e executar este aplicativo, você precisará do Git , expo vs3.23.3 ou maior instalado em seu computador. Na linha de comando:
 
 ```bash
 # Clone this repository
 $ git clone https://github.com/AdrianoCostaJHP/Desafio-Luby-Software.git
 
 # Go into the repository
-$ cd designCode
+$ cd Desafio-Luby-Software
 
 # Install dependencies
 $ expo install
