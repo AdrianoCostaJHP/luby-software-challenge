@@ -1,10 +1,16 @@
 
-<h1 align="center">
-<p>Desafio Luby Software</p>
+<h1 align = "center">
+<br>
+  <img src = "https://image.flaticon.com/icons/png/512/25/25231.png" alt = "Desafio Luby Software" width = "120">
+<br>
+<br>
+Desafio Luby Software
 </h1>
 
+
+
 <h4 align="center">
-  <p>Desafio para reproduzir o <a href="https://xd.adobe.com/view/1798f30c-7746-444c-bffa-91b29835eef5-42cb/">layout</a> da forma mais fiel possível<p/> 
+  <p align = "center">Desafio para reproduzir o <a href="https://xd.adobe.com/view/1798f30c-7746-444c-bffa-91b29835eef5-42cb/">layout</a> da forma mais fiel possível<p/> 
 </h4>
 
 
