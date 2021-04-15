@@ -7,6 +7,10 @@
 Desafio Luby Software
 </h1>
 
+<p align="center">
+  <img src="assets/loginPage-gif.gif" alt="Pagina de Login" >
+  <img src="assets/MainPages-gif.gif" alt="Paginas principais." >
+</p>
 
 
 <h4 align="center">
