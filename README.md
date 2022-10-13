@@ -1,11 +1,20 @@
 
 <h1 align = "center">
 <br>
-  <img src = "https://image.flaticon.com/icons/png/512/25/25231.png" alt = "Desafio Luby Software" width = "120">
+  <img src = "src/images/GitHub-Mark-120px-plus.png" alt = "Desafio Luby Software" width = "120">
 <br>
 <br>
 Desafio Luby Software
+<p align = "center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AdrianoCostaJHP/Desafio-Luby-Software">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AdrianoCostaJHP/Desafio-Luby-Software">
+  <img alt="GitHub" src="https://img.shields.io/github/license/AdrianoCostaJHP/Desafio-Luby-Software">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/adrianocostaJHP/Desafio-Luby-Software?style=social">
+</p>
 </h1>
+<h4 align="center">
+  <p align = "center">Desafio de programação para desenvolver uma <a href="https://xd.adobe.com/view/1798f30c-7746-444c-bffa-91b29835eef5-42cb/">aplicação</a> mobile com autenticação com o GitHub :iphone:<p/> 
+</h4>
 
 <p align="center">
   <img src="assets/loginPage-gif.gif" alt="Pagina de Login" >
@@ -13,9 +22,7 @@ Desafio Luby Software
 </p>
 
 
-<h4 align="center">
-  <p align = "center">Desafio para reproduzir o <a href="https://xd.adobe.com/view/1798f30c-7746-444c-bffa-91b29835eef5-42cb/">layout</a> da forma mais fiel possível<p/> 
-</h4>
+
 
 
 
